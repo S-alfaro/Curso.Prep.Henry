@@ -1,0 +1,24 @@
+h1{
+    color: lightblue;
+}
+
+img{
+    width: 400px;
+}
+
+.divClass {
+    margin: auto;
+}
+
+#thirdDiv{
+    margin: auto;
+    width: 500px;
+    height: 600px;
+    background-color: lightcoral;
+    padding: 50px;
+    border: 10px solid rebeccapurple;
+}
+
+#spanId{
+    font-size: 18px;
+}
